@@ -121,7 +121,7 @@
 
 #### 8.2 所有已发布的召集令信息
 
-![All](/https://github.com/pengshuai98/Front-end-design-of-summon-system/blob/main/README.assets/8.2.allCallInfo.png)
+![All](https://github.com/pengshuai98/Front-end-design-of-summon-system/blob/main/README.assets/8.2.allCallInfo.png)
 
 ### 9. 我要接令功能模块
 
