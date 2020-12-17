@@ -1,0 +1,23 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.myTable {
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: center;
+}
+   
+.myTable td,
+.myTable th {
+    border: 1px solid #cad9ea;
+    color: #666;
+    height: 40px;
+}
+
+.el-upload-list__item {
+    transition: none !important;
+}
