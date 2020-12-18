@@ -86,11 +86,11 @@
 ## 关键界面截图
 
 ### 1. 注册界面
-<img src="/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/1.register.png" alt="register" style="zoom:40%;" />
+<img src="./README.assets/1.register.png" alt="register" style="zoom:40%;" />
 
 ### 2. 登录界面
 
-<img src="/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/2.login.png" alt="login" style="zoom:40%;" />
+<img src="./README.assets/2.login.png" alt="login" style="zoom:40%;" />
 
 ### 3. 管理员查看所有用户信息
 
