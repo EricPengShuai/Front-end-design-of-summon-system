@@ -55,9 +55,13 @@
 
 ## 运行说明
 
+> **如果只是想看看效果的话只需要安装mysql就可以了，注意一下版本信息5.7的，然后注意mysql的用户名和密码默认设为`root`和`123456`，另外建库sql文件在`back_end`文件夹中的`web-sql.sql`中**
+
 - **运行后端**：进图back_end文件夹，`java -jar demo.jar`即可
 
   - [ ] 如果想了解源代码，可以从[码云](https://gitee.com/chenxiankong/web-develop)上拉取，使用Idea打开文件夹web-develop，等待依赖加载完毕，点击运行
+
+    > 注：这个除了需要安装`mysql`之后还需要`redis`
 
   ![IDEA界面截图](./README.assets/0.1.IDEA1.png)
 
