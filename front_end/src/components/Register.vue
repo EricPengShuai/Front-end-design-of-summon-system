@@ -112,6 +112,8 @@ export default {
         }
     },
     created() {
+        /* 
+        // 如果使用这个调用这个接口需要安装redis
         var that = this
         this.$http.get('/user/getDocuments')
         .then(function(response) {
@@ -134,7 +136,27 @@ export default {
         })
         .catch(function(response) {
             that.$message({showClose: true, message: "请求错误", type: 'error'})
-        })
+        }) */
+        this.documentTypeOption = [
+            {
+              "documentTypeId": 1,
+              "documentTypeName": "身份证"
+            },
+            {
+              "documentTypeId": 2,
+              "documentTypeName": "学生证"
+            }
+        ]
+        this.cityOption = [
+            {
+              "cityId": 1,
+              "cityName": "北京"
+            },
+            {
+              "cityId": 2,
+              "cityName": "上海"
+            }
+        ]
     },
     methods: {
         // 自定义校验规则，检查密码
