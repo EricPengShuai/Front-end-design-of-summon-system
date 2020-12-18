@@ -87,11 +87,11 @@
 
 ### 1. 注册界面
 
-<img src="https://github.com/pengshuai98/Front-end-design-of-summon-system/blob/main/README.assets/1.register.png" alt="register" style="zoom:50%;" />
+<img src="https://github.com/pengshuai98/Front-end-design-of-summon-system/blob/main/README.assets/1.register.png" alt="register" style="zoom:30%;" />
 
 ### 2. 登录界面
 
-<img src="https://github.com/pengshuai98/Front-end-design-of-summon-system/blob/main/README.assets/2.login.png" alt="login" style="zoom:50%;" />
+<img src="https://github.com/pengshuai98/Front-end-design-of-summon-system/blob/main/README.assets/2.login.png" alt="login" style="zoom:30%;" />
 
 ### 3. 管理员查看所有用户信息
 
