@@ -59,23 +59,23 @@
 
   - [ ] 如果想了解源代码，可以从[码云](https://gitee.com/chenxiankong/web-develop)上拉取，使用Idea打开文件夹web-develop，等待依赖加载完毕，点击运行
 
-  ![IDEA界面截图](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/0.1.IDEA1.png)
+  ![IDEA界面截图](./README.assets/0.1.IDEA1.png)
 
-  ![IDEA界面截图](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/0.2.IDEA2.png)
+  ![IDEA界面截图](./README.assets/0.2.IDEA2.png)
 
 - **运行前端**：在前端工程文件夹``front_end`打开cmd窗口，先使用`npm install`命令安装相关依赖，再使用`npm run serve`命令启动工程。显示如下界面即前端工程运行成功
 
-  ![NpmRunServe界面截图](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/0.3.NpmRunServe.png)
+  ![NpmRunServe界面截图](./README.assets/0.2.IDEA2.png)
 
 - 访问界面：[**http://localhost:8080/**](http://localhost:8080/)
 
-  <img src="/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/0.4.local.png" alt="local界面" style="zoom:50%;" />
+  <img src="./README.assets/0.4.local.png" alt="local界面" style="zoom:50%;" />
 
 ## 实现功能说明
 
-| 编号 |       功能点说明       |                         前端关键页面                         |                         工程实现对应                         |
+|  编号  |       功能点说明       |                         前端关键页面                         |                         工程实现对应                         |
 | :--: | :--------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 1 |      用户注册功能      |            front_end/src/components/Register.vue             |            com/web/controller/UserController.java            |
+|  1  |      用户注册功能      |            front_end/src/components/Register.vue             |            com/web/controller/UserController.java            |
 |  2   |      用户登录功能      |              front_end/src/components/Login.vue              |            com/web/controller/UserController.java            |
 |  3   |    用户信息管理模块    |              front_end/src/components/Info.vue               |            com/web/controller/UserController.java            |
 |  4   | 召集令信息查询功能模块 |          front_end/src/components/CheckConvene.vue           |          com/web/controller/CallFindController.java          |
@@ -86,7 +86,6 @@
 ## 关键界面截图
 
 ### 1. 注册界面
-
 <img src="/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/1.register.png" alt="register" style="zoom:40%;" />
 
 ### 2. 登录界面
@@ -95,33 +94,33 @@
 
 ### 3. 管理员查看所有用户信息
 
-![checkAllInfo](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/3.checkAllInfo.png)
+![checkAllInfo](./README.assets/3.checkAllInfo.png)
 
 ### 4. 管理员查看所有召集令信息
 
-![checkAllCall](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/4.checkAllCall.png)
+![checkAllCall](./README.assets/4.checkAllCall.png)
 
 ### 5. 管理员查看所有接令信息
 
-![checkAllRequest](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/5.checkAllRequest.png)
+![checkAllRequest](./README.assets/5.checkAllRequest.png)
 
 ### 6. 统计分析模块页面
 
-![checkfee](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/6.checkfee.png)
+![checkfee](./README.assets/6.checkfee.png)
 
 ### 7. 用户信息管理模块
 
-![UserInfo](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/7.UserInfo.png)
+![UserInfo](./README.assets/7.UserInfo.png)
 
 ### 8. 我是令主功能模块
 
 #### 8.1 发布召集令
 
-![releaseCall](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/8.1.releaseCall.png)
+![releaseCall](./README.assets/8.1.releaseCall.png)
 
 #### 8.2 所有已发布的召集令信息
 
-![All](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/8.2.allCallInfo.png)
+![All](./README.assets/8.2.allCallInfo.png)
 
 ### 9. 我要接令功能模块
 
@@ -129,16 +128,16 @@
 
 ##### 展示所有信息
 
-![all](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/9.1.1.RequestList.png)
+![all](./README.assets/9.1.1.RequestList.png)
 
 #### 查看召集令信息
 
-![checkRequestInfo](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/9.1.2.checkRequest.png)
+![checkRequestInfo](./README.assets/9.1.2.checkRequest.png)
 
 ##### 填写申请信息
 
-![request](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/9.1.3.request.png)
+![request](./README.assets/9.1.3.request.png)
 
 #### 9.2 接令列表页面
 
-![haveReqeust](/Users/pengshuai/Documents/Github/Front-end-design-of-summon-system/README.assets/9.4haveReqeust.png)
+![haveReqeust](./README.assets/9.4haveReqeust.png)
